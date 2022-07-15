@@ -10,5 +10,5 @@
 
   
 <p/>
-**Languages and tools**
+### Languages and tools
 <code><img height="50" width = "70" src="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/1200px-Java_Logo.svg.png" /></code>
