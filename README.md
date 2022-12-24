@@ -8,6 +8,7 @@
       <img align="left" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
    </a>&nbsp;&nbsp;
 <p/>
+<p>I'm Ayoub, Software engineer Interested in Web Technologies and Mobile Apps <p>
 <hr>
 
 ### Languages and Tools:
