@@ -8,10 +8,10 @@
       <img align="left" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
    </a>&nbsp;&nbsp;
 <p/>
-<p>I'm Ayoub, Software engineer Interested in Web Technologies and Mobile Apps <p>
+<p>I'm Ayoub, Software Engineer interested In Web Technologies and Mobile Apps <p>
 <hr>
 
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,js,html,css,typescript,angular,nodejs,java,react,git,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,nodejs,java,angular,react,git,vscode,vim)](https://skillicons.dev)
 
