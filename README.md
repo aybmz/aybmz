@@ -13,5 +13,5 @@
 
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,nodejs,java,angular,react,git,vscode,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,nodejs,java,angular,react,mongodb,docker,aws,git,vscode,vim)](https://skillicons.dev)
 
