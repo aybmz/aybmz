@@ -7,8 +7,9 @@
    <a href="https://twitter.com/ayoub_boumehraz">
       <img align="left" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
    </a>&nbsp;&nbsp;
-<p/>
-<p>I'm Ayoub, Software Engineer interested In Web Technologies and Mobile Apps <p>
+</p>
+<p>I'm Ayoub, a passionate Software Engineer with a knack for turning ideas into robust, scalable software solutions </p>
+<p> 🌐 Cloud Enthusiast: AWS is my playground, and I thrive on building scalable cloud-native applications </p>
 <hr>
 
 ### Languages and Tools:
